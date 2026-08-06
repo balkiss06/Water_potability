@@ -58,3 +58,12 @@ IX/TEST:
 
 X/Autre modèle:
      On essaie d'utiliser un autre modèle et comparer les deux performances.
+
+XI/CONCLUSION:
+   Au cours de ce projet, on a développé un modèle de Machine Learning qui permet de prédire la potabilité de l’eau à partir de sa composition (son pH, sa dureté...) en suivant un démarche qui commence par l’exploration des données (EDA), le prétraitement, l’entraînement du et se termine par évaluation de sa performance. Pour savoir quel est l’algorithme optimal, on implémente des  modèles et on compare leur performance afin d'identifier le modèle offrant les meilleurs résultats.
+Le Machine Learning constitue ainsi un outil efficace pour assister la surveillance de la qualité de l'eau et aider à détectter les échantillons susceptibles d'être non potables.
+Ce système peut contribuer à une gestion plus efficace des ressources d’eau et à la protection de la santé publique.
+
+## Author
+**Balkis Joudi**
+-LinkedIn: https://www.linkedin.com/in/balkis-joudi-332076328/
