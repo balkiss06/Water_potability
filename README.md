@@ -50,7 +50,7 @@ VI/MODELE DU MACHINE LEARNING:
 VII/ENTRAINEMENT DU MODELE;
    On traine le modèle sur les données d’entrainement puis il utilise les données de test pour prédire la valeur cible.
 
-Viii/EVALUATION:
+VIII/EVALUATION:
    La précision du système est: 0.6646341463414634= 66,46% avec une précision de 73% pour la classe 0 et de 55% pour la classe 1.
 
 IX/TEST:
