@@ -1,13 +1,14 @@
 ## **I/OBJECTIF:** <br>
-            De nos jours, face aux défis qu’on confronte fréquemment qui sont liés à la qualité de l’eau potable (les risques de contamination et les limites des méthodes traditionnelles de l’analyse), il est devenu indispensable de concevoir un système prédictif qui est capable de déterminer la qualité de l’eau et sa potabilité à partir de sa composition chimique.
+
+De nos jours, face aux défis qu’on confronte fréquemment qui sont liés à la qualité de l’eau potable (les risques de contamination et les limites des méthodes traditionnelles de l’analyse), il est devenu indispensable de concevoir un système prédictif qui est capable de déterminer la qualité de l’eau et sa potabilité à partir de sa composition chimique.
 ---
 ---
             
 ## **II/DATASET UTILISE:**
-      https://www.kaggle.com/datasets/adityakadiwal/water-potability
+ https://www.kaggle.com/datasets/adityakadiwal/water-potability
 ---  
 ---
-    FEATURES:
+   FEATURES:
 1/ ph (pH): paramètre qui est compris entre 0 et 14 qui mesure l’acidité et la basicité de l’eau.
 *Acidité : pH < 7
 *Neutralité : pH = 7
@@ -23,7 +24,7 @@ Si leur concentration est faible, l’eau n’est pas proprement désinfectée, 
 8/ Trihalomethanes (THM): Ce sont des composés chimiques qui nous renseignent sur la qualité de l’eau par leur concentration (Une concentration faible est conforme aux normes de la qualité alors qu’une élevée présente des dangers sur notre santé).
 9/ Turbidity(Turbidité): C’est une mesure de la clarté de l’eau: Une faible turbidité indique une eau claire alors qu’une forte réduit la qualité visuelle de l’eau. 
 ---   
-    Target (CIBLE):
+ Target (CIBLE):
 10/Potability (Potabilité): indique si l’eau peut etre consommée sans danger.
 *Potability=1: Eau potable.
 *Potability=0: Eau non potable.
