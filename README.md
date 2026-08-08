@@ -1,3 +1,12 @@
+### WATER POTABILITY PREDICTION SYSTEM 
+# Machine learning project
+## Author
+**Balkis Joudi**
+-LinkedIn: https://www.linkedin.com/in/balkis-joudi-332076328/
+
+---
+---
+---
 ## **I/OBJECTIF:** <br>
 
 De nos jours, face aux défis qu’on confronte fréquemment qui sont liés à la qualité de l’eau potable (les risques de contamination et les limites des méthodes traditionnelles de l’analyse), il est devenu indispensable de concevoir un système prédictif qui est capable de déterminer la qualité de l’eau et sa potabilité à partir de sa composition chimique.
@@ -89,6 +98,4 @@ On essaie d'utiliser un autre modèle et comparer les deux performances.
 Le Machine Learning constitue ainsi un outil efficace pour assister la surveillance de la qualité de l'eau et aider à détectter les échantillons susceptibles d'être non potables.
 Ce système peut contribuer à une gestion plus efficace des ressources d’eau et à la protection de la santé publique.
 
-## Author
-**Balkis Joudi**
--LinkedIn: https://www.linkedin.com/in/balkis-joudi-332076328/
+
