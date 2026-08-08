@@ -1,3 +1,4 @@
+💧   
 # WATER POTABILITY PREDICTION SYSTEM 
 ### Machine learning project
 ## *Author: Balkis Joudi* 
